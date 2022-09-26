@@ -32,7 +32,7 @@
 Users should be able to:
 
 - View the optimal layout for the site depending on their device's screen size
-- Io scroll to any section on the page by clicking the required link.
+- To scroll to any section on the page by clicking the required link.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -44,9 +44,9 @@ Users should be able to:
 
 ### Links
 
-- [Solution URL]()
+- [Solution URL](https://github.com/ijayhub/Landing-page-fm)
 
-- [Live Site URL]()
+- [Live Site URL](landing-flyo.netlify.app)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -67,7 +67,7 @@ Learnt how to use tailwindcss and next.js
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
-## Author
+
 
 - [Website ](https://portfolio-ijay.netlify.app/)
 
