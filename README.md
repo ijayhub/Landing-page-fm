@@ -46,7 +46,7 @@ Users should be able to:
 
 - [Solution URL](https://github.com/ijayhub/Landing-page-fm)
 
-- [Live Site URL](landing-flyo.netlify.app)
+- [Live Site URL](https://landing-flyo.netlify.app)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
