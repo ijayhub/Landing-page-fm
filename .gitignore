@@ -34,3 +34,16 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# Avoid accidental Sketch file upload 
+###############################################
+## Please do not remove line 42 - thanks! 🙂 ##
+###############################################
+*.sketch
+
+# Avoid accidental XD or Figma upload if you convert the design file
+#######################################################
+## Please do not remove lines 48 and 49 - thanks! 🙂 ##
+#######################################################
+*.xd
+*.fig
